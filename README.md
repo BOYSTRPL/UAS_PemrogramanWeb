@@ -46,3 +46,19 @@ Berikut adalah langkah-langkah singkat untuk menginstal aplikasi web PHP dari Gi
   ```
 
 ---
+### **6. Login Aplikasi**
+- Admin:
+  Username: admin
+  Password: admin
+- Petugas:
+  Username: petugas
+  Password: petugas
+- Masyarakat:
+  Username: agus
+  Password: agus
+  ```
+  http://localhost/<nama_proyek>
+  ```
+
+---
+
