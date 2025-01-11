@@ -1,24 +1,50 @@
-# Hello Everyone
-I Creating a website about public complaints created using the following template sb admin 2 and Bootstrap for the frontend and native PHP for the backend
+Berikut adalah langkah-langkah singkat untuk menginstal aplikasi web PHP dari GitHub:
 
-<br>
-<h3>website display</h3>
+---
 
-<br>
+### **1. Clone/Download Proyek**
+- **Clone dengan Git**:  
+  ```bash
+  git clone <URL_Repository>
+  ```
+- **Atau Download ZIP**:  
+  - Klik tombol **Code** di GitHub → **Download ZIP** → Ekstrak ke folder.
 
-- Landing pages
+---
 
-<img src="assets/img/landing.jpg" alt="">
+### **2. Pindahkan ke Folder Server Lokal**
+- Pindahkan folder proyek ke direktori `htdocs` (untuk XAMPP):  
+  ```
+  C:\xampp\htdocs\<nama_proyek>
+  ```
 
-<br>
+---
 
-- Login
+### **3. Buat Database**
+1. Akses **phpMyAdmin** di browser:  
+   ```
+   http://localhost/phpmyadmin
+   ```
+2. Buat database baru dengan nama yang sesuai.
+3. **Impor file SQL** (biasanya ada di folder proyek).
 
-<img src="assets/img/login.jpg">
+---
 
-<br>
+### **4. Sesuaikan Konfigurasi**
+- Edit file `app.php`:
+  - **Database**:
+    ```
+    Nama Database : Laporan
+    ```
 
-- Dashboard
+---
 
-<img src="assets/img/dashboard.jpg">
+### **5. Jalankan Aplikasi**
+- Akses di browser:  
+  ```
+  http://localhost/<nama_proyek>
+  ```
 
+---
+
+Selesai! 🎉 Jika ada kendala, beri tahu saya!
