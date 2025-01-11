@@ -46,5 +46,3 @@ Berikut adalah langkah-langkah singkat untuk menginstal aplikasi web PHP dari Gi
   ```
 
 ---
-
-Selesai! 🎉 Jika ada kendala, beri tahu saya!
